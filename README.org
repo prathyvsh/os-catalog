@@ -74,9 +74,9 @@ ChrysaLisp is amulti-threaded, multi-core, multi-user parallel OS with features 
 
 DesktopNeo, a rethinking of the desktop interface by [[https://www.lennartziburski.com][Lennart Ziburski]]
 
-[[Screenshot of Desktop Neo][./img/desktop-neo.png]]
+[[Screenshot of Desktop Neo][./img/desktop-neo.jpg]]
 
-[[Another screenshot of Desktop Neo][./img/desktop-neo.png-screenshot]]
+[[Another screenshot of Desktop Neo][./img/desktop-neo-screenshot.png]]
 
 ** MercuryOS
 

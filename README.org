@@ -41,7 +41,7 @@ Omar Rizwan and Andreas Cuérvo
 
 * [[https://nette.io][Nette.io]]
 
-Nette.io by @pawelceranka positions itself as a research OS for the web.
+Nette.io by [[https://github.com/qazwsxpawel][Pawel Ceranka]] positions itself as a research OS for the web.
 
 [[Nette website screenshot][./img/nette.png]]
 

@@ -53,9 +53,17 @@ Something about Lisp draws people into construct OSes from ground up. Perhaps it
 
 [[Interim Screenshot][./img/interim-screenshot.jpg]]
 
-* RayvnOS
+* [[https://github.com/froggey/Mezzano][Mezzano]]
+
+* [[https://github.com/vygr/ChrysaLisp][ChrysalLisp]]
 
 * MercuryOS
+
+https://x.com/raunofreiberg/status/1666122499401166873
+
+The team seems to be working on MercuryOS → Makespace.fun → New.computer
+
+* RayvnOS
 
 * Status Unknown
 

@@ -61,7 +61,7 @@ An OS written in CommonLisp
 
 * [[https://github.com/vygr/ChrysaLisp][ChrysalLisp]]
 
-[[ChrysaLisp screenshot][./img/chrysalisp.png]]
+[[ChrysaLisp screenshot][./img/chrysalisp-screenshot.png]]
 
 ChrysaLisp is amulti-threaded, multi-core, multi-user parallel OS with features such as a GUI, terminal, OO Assembler, class libraries, C-Script compiler, Lisp interpreter, debugger, profiler, vector font engine, and more.
 

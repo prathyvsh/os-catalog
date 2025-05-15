@@ -5,7 +5,7 @@ Somewhere after the fall in popularity of note-taking apps, perhaps recognizing 
 
 * UXN
 
-Perhaps the best one to start off this thread is the UXN system of [[https://100r.co][100 Rabbits]]. Such a great couple with such a radical vision!
+Perhaps the best one to start off this catalog is the UXN/Varvara personal computing stack of [[https://100r.co][100 Rabbits]]. Such a great couple with such a radical vision!
 
 [[UXN logo][./img/uxn-logo.jpg]]
 

@@ -23,8 +23,13 @@ Daring effort from [[https://github.com/rsms][Rasmus Andersson]] and team to rei
 
 And alpha version available [[https://playb.it/alpha/][here]].
 
-[[Playbit screenshot][./img/playbit-screenshot.webp]]
-[[Playbit video][./img/playbit-video.mp4]]
+#+BEGIN_HTML
+<img src="./img/playbit-screenshot.webp" alt="Screenshot of Playbit" />
+#+END_HTML
+
+#+BEGIN_HTML
+<video src="./img/playbit-video.mp4"></video>
+#+END_HTML
 
 # Folk.computer
 

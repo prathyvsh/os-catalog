@@ -103,7 +103,7 @@ Freeze the desktop interface and then thaw it at will: https://x.com/getFreezefr
 
 Interesting article on partitioned rooms by mental space with little bubbles on the edges that act as wormholes into things you want to achieve.
 
-[[./img/wormholeos.png]]
+[[./img/wormos.png]]
 
 * Status Unknown
 

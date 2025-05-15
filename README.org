@@ -3,7 +3,7 @@ Catalogue of novel operating systems
 
 Somewhere after the fall in popularity of note-taking apps, perhaps recognizing that just note-taking is not enough and the deafening hype of LLMs, there was a sweet period of lull when a lot of people started boldly building new operating systems. This is a catalogue of such operating systems that I have come across. In the past, before the commercialization of computers, we had a plethora of operating systems with unique languages to interact with computers, like Symbolics, MULTICS, Burroughs, PARC, Star, Oberon, PLAN9, PL/8 etc. This spirit can only be glimpsed in pockets, and kudos to all those who keep the fire alive!
 
-* UXN
+* [[https://100r.co/site/uxn.html][UXN]]
 
 Perhaps the best one to start off this catalog is the UXN/Varvara personal computing stack of [[https://100r.co][100 Rabbits]]. Such a great couple with such a radical vision!
 
@@ -17,9 +17,14 @@ They have documented their rationale in these two documents:
 
 Documents related to UXN can be obtained here: https://github.com/hundredrabbits/awesome-uxn?tab=readme-ov-file
 
-# Playbit
+* [[https://playb.it/][Playbit]]
 
-Daring effort from Rasmus Anderson and team to rebuild computer from scratch.
+Daring effort from [[https://github.com/rsms][Rasmus Andersson]] and team to reinvent the computer stack.
+
+And alpha version available [[https://playb.it/alpha/][here]].
+
+[[Playbit screenshot][./img/playbit-screenshot.webp]]
+[[Playbit video][./img/playbit-video.mp4]]
 
 # Folk.computer
 

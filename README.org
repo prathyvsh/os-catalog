@@ -12,8 +12,10 @@ Perhaps the best one to start off this catalog is the UXN/Varvara personal compu
 [[UXN screenshot][./img/uxn-screenshot.jpg]]
 
 They have documented their rationale in these two documents:
-[[https://100r.co/site/tools_ecosystem.html][Tools Ecosystem]]
-[[https://100r.co/site/weathering_software_winter.html][Weathering Software Winter]]
+- [[https://100r.co/site/tools_ecosystem.html][Tools Ecosystem]]
+- [[https://100r.co/site/weathering_software_winter.html][Weathering Software Winter]]
+
+Documents related to UXN can be obtained here: https://github.com/hundredrabbits/awesome-uxn?tab=readme-ov-file
 
 # Playbit
 

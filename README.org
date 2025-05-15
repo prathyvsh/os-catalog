@@ -31,7 +31,7 @@ And alpha version available [[https://playb.it/alpha/][here]].
 <video src="./img/playbit-video.mp4"></video>
 #+END_HTML
 
-# [[https://folk.computer][Folk.computer]]
+* [[https://folk.computer][Folk.computer]]
 
 Omar Rizwan and Andreas Cuérvo
 
@@ -39,23 +39,23 @@ Omar Rizwan and Andreas Cuérvo
 <img src="./img/folk-computer.gif" alt="Video of with Folk.computer" />
 #+END_HTML
 
-# Nette.io
+* Nette.io
 
-# Interim
+* Interim
 
 Something about Lisp draws people into construct OSes from ground up. Perhaps it is the simplicity of the language that acts as the foundation.
 
-# RayvnOS
+* RayvnOS
 
-# MercuryOS
+* MercuryOS
 
-# Status Unknown
+* Status Unknown
 
-## [[https://bedrock.computer][Bedrock.computer]]
-## [[https://new.computer][New.computer]]
+** [[https://bedrock.computer][Bedrock.computer]]
+** [[https://new.computer][New.computer]]
 
-# Other lists
+* Other lists
 
-[[https://github.com/jubalh/awesome-os][AwesomeOS by @jubalh]]
-[[https://1.anagora.org/node/os][Anagora List]]
+- [[https://github.com/jubalh/awesome-os][AwesomeOS by @jubalh]]
+- [[https://1.anagora.org/node/os][Anagora List]]
 

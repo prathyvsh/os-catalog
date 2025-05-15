@@ -45,9 +45,13 @@ Nette.io by [[https://github.com/qazwsxpawel][Pawel Ceranka]] positions itself a
 
 [[Nette website screenshot][./img/nette.png]]
 
-* Interim
+* [[https://github.com/mntmn/interim][Interim]]
 
-Something about Lisp draws people into construct OSes from ground up. Perhaps it is the simplicity of the language that acts as the foundation.
+[[Interim Logo][./img/interim-logo.png]]
+
+Something about Lisp draws people into construct OSes from ground up. Perhaps it is the simplicity of the language that acts as the foundation. Here‘s Interim, one of our favourite minimal OSes constructed with Lisp.
+
+[[Interim Screenshot][./img/interim-screenshot.jpg]]
 
 * RayvnOS
 

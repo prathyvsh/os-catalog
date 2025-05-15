@@ -65,18 +65,35 @@ An OS written in CommonLisp
 
 ChrysaLisp is amulti-threaded, multi-core, multi-user parallel OS with features such as a GUI, terminal, OO Assembler, class libraries, C-Script compiler, Lisp interpreter, debugger, profiler, vector font engine, and more.
 
-* MercuryOS
+* [[https://ravynos.com][RayvnOS]]
+
+* [[https://www.redox-os.org/][RedoxOS]]
+
+* Ideas
+** [[https://desktopneo.com][DesktopNeo]]
+
+DesktopNeo, a rethinking of the desktop interface by [[https://www.lennartziburski.com][Lennart Ziburski]]
+
+[[Screenshot of Desktop Neo][./img/desktop-neo.png]]
+
+[[Another screenshot of Desktop Neo][./img/desktop-neo.png-screenshot]]
+
+** MercuryOS
 
 https://x.com/raunofreiberg/status/1666122499401166873
 
-The team seems to be working on MercuryOS → Makespace.fun → New.computer
+The team seems to be working on MercuryOS → Makespace.fun → [[https://new.computer][New.computer]]
 
-* RayvnOS
+** Freeze.app
+
+Freeze the desktop interface and then thaw it at will: https://x.com/getFreezeframe/status/1358805285393948673
+
+** WormOS
 
 * Status Unknown
 
 ** [[https://bedrock.computer][Bedrock.computer]]
-** [[https://new.computer][New.computer]]
+
 
 * Other lists
 

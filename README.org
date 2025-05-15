@@ -9,7 +9,7 @@ Perhaps the best one to start off this thread is the UXN system of [[https://100
 
 [[UXN logo][./img/uxn-logo.jpg]]
 
-[[UXN screenshot][./img/ux-screenshot.jpg]]
+[[UXN screenshot][./img/uxn-screenshot.jpg]]
 
 They have documented their rationale in these two documents:
 [[https://100r.co/site/tools_ecosystem.html][Tools Ecosystem]]

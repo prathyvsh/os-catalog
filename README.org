@@ -31,9 +31,13 @@ And alpha version available [[https://playb.it/alpha/][here]].
 <video src="./img/playbit-video.mp4"></video>
 #+END_HTML
 
-# Folk.computer
+# [[https://folk.computer][Folk.computer]]
 
 Omar Rizwan and Andreas Cuérvo
+
+#+BEGIN_HTML
+<img src="./img/folk-computer.gif" alt="Video of with Folk.computer" />
+#+END_HTML
 
 # Nette.io
 

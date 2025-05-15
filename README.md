@@ -1,2 +1,37 @@
-# os-catalog
+# OS Catalog
 Catalogue of novel operating systems
+
+Somewhere after the fall in popularity of note-taking apps, perhaps recognizing that just note-taking is not enough and the deafening hype of LLMs, there was a sweet period of lull when a lot of people started boldly building new operating systems. This is a catalogue of such operating systems that I have come across. In the past, before the commercialization of computers, we had a plethora of operating systems with unique languages to interact with computers, like Symbolics, MULTICS, Burroughs, PARC, Star, Oberon, PLAN9, PL/8 etc. This spirit can only be glimpsed in pockets, and kudos to all those who keep the fire alive!
+
+# UXN
+
+Read the document here:
+
+# Playbit
+
+Daring effort from Rasmus Anderson and team to rebuild computer from scratch.
+
+# Folk.computer
+
+Omar Rizwan and Andreas Cuérvo
+
+# Nette.io
+
+# Interim
+
+Something about Lisp draws people into construct OSes from ground up. Perhaps it is the simplicity of the language that acts as the foundation.
+
+# RayvnOS
+
+# MercuryOS
+
+# Status Unknown
+
+## [[https://bedrock.computer][Bedrock.computer]]
+## [[https://new.computer][New.computer]]
+
+# Other lists
+
+[[https://github.com/jubalh/awesome-os][AwesomeOS by @jubalh]]
+[[https://1.anagora.org/node/os][Anagora List]]
+

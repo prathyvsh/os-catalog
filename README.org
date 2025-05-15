@@ -78,9 +78,20 @@ DesktopNeo, a rethinking of the desktop interface by [[https://www.lennartziburs
 
 [[Another screenshot of Desktop Neo][./img/desktop-neo-screenshot.png]]
 
-** MercuryOS
+** [[https://www.mercuryos.com/][MercuryOS]]
 
-https://x.com/raunofreiberg/status/1666122499401166873
+MercuryOS by Jason Yuan is an interesting rethink of the OS based on intensions:
+
+[[./img/mercury-screenshot.png]]
+[[./img/mercury-dark-mode.png]]
+
+Prototype by Rauno Freiberg. [[Source][https://x.com/raunofreiberg/status/1666122499401166873]]
+
+#+BEGIN_HTML
+<object src="./img/mercury-prototype.mp4" />
+#+END_HTML
+
+
 
 The team seems to be working on MercuryOS → Makespace.fun → [[https://new.computer][New.computer]]
 

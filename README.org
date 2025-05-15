@@ -95,11 +95,15 @@ Prototype by Rauno Freiberg. [[Source][https://x.com/raunofreiberg/status/166612
 
 The team seems to be working on MercuryOS → Makespace.fun → [[https://new.computer][New.computer]]
 
-** Freeze.app
+** [[https://x.com/getFreezeframe][Freeze.app]]
 
 Freeze the desktop interface and then thaw it at will: https://x.com/getFreezeframe/status/1358805285393948673
 
-** WormOS
+** [[https://azlen.me/stories/worm-os/][WormOS]]
+
+Interesting article on partitioned rooms by mental space with little bubbles on the edges that act as wormholes into things you want to achieve.
+
+[[./img/wormholeos.png]]
 
 * Status Unknown
 

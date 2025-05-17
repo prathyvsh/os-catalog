@@ -69,6 +69,16 @@ ChrysaLisp is amulti-threaded, multi-core, multi-user parallel OS with features 
 
 * [[https://www.redox-os.org/][RedoxOS]]
 
+* [[https://urbit.org][Urbit]]
+
+Urbit is a clean-slate OS and network for the 21st century, re-imagining what a personal, networked, computer can be.
+
+[[https://github.com/urbit/urbit][Urbit GitHub]]
+
+[[https://docs.urbit.org/][Urbit Documentation]]
+
+[[Urbit Landscape Application Screenshot][./img/urbit-landscape-app-screenshot.png]]
+
 * Ideas
 ** [[https://desktopneo.com][DesktopNeo]]
 
@@ -114,4 +124,3 @@ Interesting article on partitioned rooms by mental space with little bubbles on 
 
 - [[https://github.com/jubalh/awesome-os][AwesomeOS by @jubalh]]
 - [[https://1.anagora.org/node/os][Anagora List]]
-

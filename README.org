@@ -107,10 +107,15 @@ Interesting article on partitioned rooms by mental space with little bubbles on 
 
 [[./img/wormos.png]]
 
+** [[https://alexanderobenauer.com/labnotes/014/][Obenauer‘s Research notes]]
+
+[[./img/obenauer-lab-notes.png]]
+
+Lab notes documenting explorations of the “operating system of the future,” and with those concepts, creating an experimental new environment for personal computing.
+
 * Status Unknown
 
 ** [[https://bedrock.computer][Bedrock.computer]]
-
 
 * Other lists
 

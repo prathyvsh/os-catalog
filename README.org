@@ -71,6 +71,8 @@ ChrysaLisp is amulti-threaded, multi-core, multi-user parallel OS with features 
 
 * [[https://www.redox-os.org/][RedoxOS]]
 
+* [[https://serenityos.org][SerenityOS]]
+
 * Ideas
 ** [[https://desktopneo.com][DesktopNeo]]
 
